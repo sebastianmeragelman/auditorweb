@@ -35,7 +35,7 @@ data/ # screenshots
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/auditoria-banners.git
+git clone https://github.com/sebastianmeragelman/auditorweb.git
 cd auditoria-banners/auditoriaweb
 
 python -m venv venv
